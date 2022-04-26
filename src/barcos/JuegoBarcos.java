@@ -14,6 +14,7 @@ public class JuegoBarcos {
 	public static final char DISPARO = 'D';
 	public static final char TOCADO = 'T';
 	public static final char BARCO = 'B';
+	public static final char modificado = 'w';
 
 	public static final int ARRIBA = 0;
 	public static final int ABAJO = 1;
